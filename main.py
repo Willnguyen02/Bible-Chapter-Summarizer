@@ -18,3 +18,5 @@ headers = {
 response = requests.get(os.getenv("ENDPOINT"), headers=headers, params=querystring)
 
 print(response.json())
+
+
