@@ -1,0 +1,3 @@
+# LM Studio Config
+base_url = "http://localhost:1234/v1"
+model = "google/gemma-4-e4b"
